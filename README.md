@@ -2,11 +2,11 @@ A simple all‑in‑one media converter for Windows.
 Converts video, audio, and images with a clean, lightweight interface.
 
 Features
-Video conversion (MP4, MKV, MOV, AVI, etc.)
+Video conversion (MP4, MKV, MOV,)
 
-Audio conversion (MP3, WAV, FLAC, AAC, etc.)
+Audio conversion (MP3, WAV,)
 
-Image conversion (PNG, JPG, WEBP, BMP, etc.)
+Image conversion (PNG, JPG, WEBP,)
 
 URL downloading (YouTube and direct links)
 
